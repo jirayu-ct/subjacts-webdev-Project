@@ -3,7 +3,7 @@
 Make sure to install the dependencies:
 
 ```bash
-pnpm install
+pnpm install or npm install
 ```
 
 ## Development Server
@@ -11,5 +11,5 @@ pnpm install
 Start the development server on `http://localhost:3000`:
 
 ```bash
-pnpm dev
+pnpm dev or npm run dev
 ```

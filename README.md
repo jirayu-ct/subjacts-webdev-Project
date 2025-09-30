@@ -13,3 +13,5 @@ Start the development server on `http://localhost:3000`:
 ```bash
 pnpm dev or npm run dev
 ```
+
+## นายจิรายุ ชมทอง รหัส 660112230038
